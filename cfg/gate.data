@@ -1,0 +1,8 @@
+classes= 1
+train  = 
+valid  = 
+#valid = 
+names = data/gate.names
+backup = backup/
+
+
