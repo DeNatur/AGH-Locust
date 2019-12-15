@@ -2,6 +2,9 @@
 
 Repository for storing scripts
 
+# Wymagania
+
+CUDA 10.0 i cudnn
 # Instrukcja:
 1. Pobrać repozytorium i wypakować
 2. Pobrać oba pliki yolo weights i wkleić do folderu bin: https://drive.google.com/drive/folders/1SkTj4s6jwr7jPef7NJRQqRGQGJ2dW4m4?usp=sharing
